@@ -12,7 +12,7 @@ Preferred communication style: Simple, everyday language.
 The application follows a traditional server-side web architecture with the following layers:
 
 **Frontend**
-  **Technology**: HTML5, CSS3, JavaScript (ES6+)
+  **Technology**: HTML5, CSS3, JavaScript [ES6+]
   **Framework**: Bootstrap 5 with dark theme
   **Architecture**: Chat interface resembling messaging apps (WhatsApp/Telegram style)
   **Key Features**: Real-time conversational UI, message bubbles, typing indicators, GIF display in chat
