@@ -60,7 +60,7 @@ EMOTIONAL SUPPORT APPROACH:
 - For confusion: Help clarify thoughts and provide gentle guidance
 - For any emotion: Always end with something that could lift their spirits
 
-IMPORTANT: Always analyze the user's emotional state and provide 3-5 relevant keywords for finding GIFs that would genuinely help their mood (funny, cute, inspiring, calming, etc.)."""
+IMPORTANT: Always analyze the user's emotional state ."""
 
     def analyze_emotion_and_respond(self, user_message: str, conversation_context: Optional[List[Dict]] = None) -> Dict:
         """
