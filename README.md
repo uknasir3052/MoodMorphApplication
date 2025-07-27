@@ -30,6 +30,10 @@ The application follows a traditional server-side web architecture with the foll
 
 **Key Components**
 
+**Dependencies**
+  Run this command in terminal to install all the dependencies for the project: 
+  pip install -r requirements.txt
+
 **Core Services**
 
 1. **EmotionAnalyzer** (`emotion_analyzer.py`)
