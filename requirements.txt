@@ -1,0 +1,11 @@
+email-validator 
+flask 
+flask-sqlalchemy 
+google-genai
+gunicorn 
+psycopg2-binary 
+requests 
+sqlalchemy 
+textblob 
+werkzeug
+dotenv
